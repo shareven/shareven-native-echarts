@@ -1,6 +1,6 @@
 {
   "name": "shareven-native-echarts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "echarts for react-native . nice nice",
   "main": "src/index.js",
   "main": "index.js",
