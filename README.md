@@ -22,14 +22,13 @@ component props:
 
 
 ```js
-import React, { Component } from 'react';
+import React from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View
 } from 'react-native';
-import Echarts from 'native-echarts';
+import Echarts from 'shareven-native-echarts';
 
 export default function App() {
   const option = {
