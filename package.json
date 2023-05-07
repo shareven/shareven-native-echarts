@@ -29,7 +29,7 @@
   "homepage": "https://github.com/shareven/shareven-native-echarts.git#readme",
   "dependencies": {
     "echarts": "3.2.3",
-    "react-native-webview": "^8.0.6"
+    "react-native-webview": "^11.0.0"
   },
   "react-native": {
     "zlib": "browserify-zlib",
